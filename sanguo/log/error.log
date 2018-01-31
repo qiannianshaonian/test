@@ -1,0 +1,2 @@
+2018-01-31 12:06:47.725 [error] <0.258.0>@lager_file_backend:323 Invalid loglevel crash for file "log/crash.log"
+2018-01-31 12:06:47.725 [error] <0.269.0>@lager_handler_watcher:123 Lager fatally failed to install handler {lager_file_backend,"log/crash.log"} into lager_event, NOT retrying: bad_config
